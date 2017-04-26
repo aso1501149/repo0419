@@ -1,6 +1,6 @@
 
 public class Mon {
-//もんちっち
+//もんちっちti
 
 }
 
